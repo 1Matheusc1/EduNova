@@ -1,55 +1,61 @@
-# EduNova 🚀
+# 🌐 Portfólio de Marcos Matheus
 
-**EduNova** é uma plataforma moderna de **venda de cursos online**, criada para oferecer **experiências de aprendizado interativas e personalizadas**.  
-O sistema combina **educação digital, inteligência artificial e integração social** em um só lugar.  
-
----
-
-## 🌟 Principais Recursos
-
-✅ **Venda de Cursos Online** — vitrine moderna e otimizada para conversão  
-✅ **Inteligência Artificial** — recomenda cursos e conteúdos de forma personalizada  
-✅ **Blog Integrado** — artigos educativos e novidades para engajar usuários  
-✅ **Chat do Instagram** — interação direta com alunos e leads pelo Instagram  
-✅ **Painel Administrativo** — gestão completa de cursos, usuários e conteúdo  
-✅ **Layout Responsivo** — adaptado para desktop, tablet e mobile  
+Bem-vindo ao meu espaço digital — um portfólio desenvolvido para ser mais do que apenas uma vitrine de projetos:  
+aqui você encontra minha **história como desenvolvedor**, minha **forma de pensar tecnologia** e a **essência criativa** por trás de cada linha de código.
 
 ---
 
-## 💻 Tecnologias Utilizadas
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-  <img src="https://avatars.githubusercontent.com/u/958072?s=280&v=4" height="50" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-</div>
+## 🚀 Quem sou eu
+- **Nome:** Marcos Matheus  
+- **Função:** Desenvolvedor Full Stack  
+- **Stack favorita:** Vue.js + Vuetify 3 | React | PHP | Laravel | JavaScript  
+- **Extra:** Experiência em banco de dados, design de interfaces e construção de sistemas completos.  
+
+💡 Minha filosofia: **“Código bom não é só o que funciona, é o que encanta.”**
 
 ---
 
-## 📸 Prévia do Projeto
-> *(adicione aqui prints da aplicação ou até um GIF mostrando a navegação entre as telas — isso valoriza muito seu projeto)*
+## 🛠️ O que você encontrará aqui
+Este portfólio é dividido em áreas que refletem minha trajetória:
+
+1. **Projetos de Front-end**
+   - Interfaces modernas com Vue.js, Vuetify 3 e React.  
+   - Foco em usabilidade, responsividade e performance.  
+
+2. **Projetos de Back-end**
+   - APIs profissionais com PHP e Laravel.  
+   - Integração com PostgreSQL e MySQL.  
+   - Estrutura limpa, escalável e segura.  
+
+3. **Projetos Web Completos**
+   - Sistemas full stack com login, cadastros, relatórios, dashboards e auditoria.  
+   - Funcionalidades inspiradas em grandes plataformas como Shopee.  
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 📂 Estrutura do Portfólio
+- **/sobre** → Minha história e trajetória.  
+- **/projetos** → Lista organizada de cases reais e experimentais.  
+- **/contato** → Onde você pode me encontrar para colaborações.  
 
-```bash
-# Clone este repositório
-git clone https://github.com/1Matheusc1/edunova.git
+---
 
-# Acesse a pasta do projeto
-cd edunova
+## 🔑 Diferenciais
+- 🎨 **Detalhista**: cada pixel e cada regra de negócio importam.  
+- ⚡ **Versátil**: consigo atuar tanto no front quanto no back com fluidez.  
+- 🧩 **Resiliente**: sempre encontro soluções criativas para problemas complexos.  
+- 🌍 **Aberto ao novo**: gosto de experimentar tecnologias e propor ideias únicas.  
 
-# Instale as dependências
-composer install
-npm install
+---
 
-# Configure o .env e rode as migrations
-php artisan migrate
+## 📞 Como falar comigo
+- GitHub: [@1Matheusc1](https://github.com/1Matheusc1)  
+- LinkedIn: *(adicione aqui seu link)*  
+- E-mail: *(adicione aqui seu email)*  
 
-# Inicie o servidor Laravel
-php artisan serve
+---
 
-# Rode o front-end
-npm run dev
+## ✨ Nota final
+Este portfólio é vivo — assim como eu evoluo como desenvolvedor, ele também evolui.  
+Cada projeto aqui representa uma parte da minha jornada, e juntos, eles contam uma história:  
+a de um dev que nunca para de aprender, melhorar e criar soluções **que ninguém nunca viu antes**.
