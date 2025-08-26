@@ -1,49 +1,55 @@
 # EduNova 🚀
 
-**EduNova** é uma plataforma completa de cursos online, totalmente customizável, com **Inteligência Artificial, blog, integração com Instagram e recursos personalizados**.  
-
-O projeto foi desenvolvido para oferecer **experiências de aprendizado modernas e interativas**, ideal para estudantes, profissionais e empresas que desejam explorar educação digital de forma inovadora.
+**EduNova** é uma plataforma moderna de **venda de cursos online**, criada para oferecer **experiências de aprendizado interativas e personalizadas**.  
+O sistema combina **educação digital, inteligência artificial e integração social** em um só lugar.  
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 🌟 Principais Recursos
+
+✅ **Venda de Cursos Online** — vitrine moderna e otimizada para conversão  
+✅ **Inteligência Artificial** — recomenda cursos e conteúdos de forma personalizada  
+✅ **Blog Integrado** — artigos educativos e novidades para engajar usuários  
+✅ **Chat do Instagram** — interação direta com alunos e leads pelo Instagram  
+✅ **Painel Administrativo** — gestão completa de cursos, usuários e conteúdo  
+✅ **Layout Responsivo** — adaptado para desktop, tablet e mobile  
+
+---
+
+## 💻 Tecnologias Utilizadas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="80" alt="PHP" />
-  <img src="https://avatars.githubusercontent.com/u/958072?s=280&v=4" height="40" width="80" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="80" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="80" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="80" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="80" alt="Docker" />
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="40" width="80" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img src="https://avatars.githubusercontent.com/u/958072?s=280&v=4" height="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
 </div>
 
 ---
 
-## 🚀 Funcionalidades
-
-- Plataforma de cursos online totalmente customizável  
-- Inteligência Artificial integrada para recomendações e aprendizado personalizado  
-- Blog e artigos educativos  
-- Integração com Instagram e envio de mensagens  
-- Painel administrativo para gerenciamento de conteúdo e usuários  
+## 📸 Prévia do Projeto
+> *(adicione aqui prints da aplicação ou até um GIF mostrando a navegação entre as telas — isso valoriza muito seu projeto)*
 
 ---
 
-## 📫 Contato
-<div align="center">
-  <a href="http://www.linkedin.com/in/marcos-matheus-34a257304" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/1Matheusc1" target="_blank">
-    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="80" height="40" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/https.theus___" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="Instagram" />
-  </a>
-</div>
+## 🚀 Como Rodar o Projeto
 
----
+```bash
+# Clone este repositório
+git clone https://github.com/1Matheusc1/edunova.git
 
-<p align="center">
-🌟 Desenvolvido por **Marcos Matheus** — Sempre buscando inovação e soluções tecnológicas eficientes.  
-</p>
+# Acesse a pasta do projeto
+cd edunova
+
+# Instale as dependências
+composer install
+npm install
+
+# Configure o .env e rode as migrations
+php artisan migrate
+
+# Inicie o servidor Laravel
+php artisan serve
+
+# Rode o front-end
+npm run dev
