@@ -50,8 +50,8 @@ Este portfólio é dividido em áreas que refletem minha trajetória:
 
 ## 📞 Como falar comigo
 - GitHub: [@1Matheusc1](https://github.com/1Matheusc1)  
-- LinkedIn: *(adicione aqui seu link)*  
-- E-mail: *(adicione aqui seu email)*  
+- Instagram: *(https://www.instagram.com/https.theus___)*  
+- E-mail: *(mateus312004@gmail.com)*  
 
 ---
 
